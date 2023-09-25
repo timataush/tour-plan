@@ -72,3 +72,15 @@
   color: #c1c8ce;
   text-decoration: line-through;
 }
+.button:hover{
+  background-color: rebeccapurple;
+  color: white;
+  transform: scale(1.2);
+  cursor: pointer;
+  font-family: "Proxima Nova";
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 16.80000114440918px;
+  font-style: normal;
+  text-align: center; 
+}
